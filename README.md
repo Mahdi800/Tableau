@@ -1,5 +1,5 @@
 # Tableau - Car Sales Visualization
-Visualizations available at: https://public.tableau.com/shared/TPC3QWQN4?:display_count=n&:origin=viz_share_link \
+Visualizations are available at: https://public.tableau.com/shared/TPC3QWQN4?:display_count=n&:origin=viz_share_link \
 This Tableau project was created and published on Tableau Public.
 Overall six visualizations were created, but the dashboard contains only four selected visualizations.
 ## Data
