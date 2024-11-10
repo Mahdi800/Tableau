@@ -1,5 +1,5 @@
 # Tableau - Car Sales Visualization
-Visualizations are available at: https://public.tableau.com/app/profile/mohammadmahdi.naghipour/viz/Car_analysis_2015/Dashboard1 \
+Visualizations are available at: https://public.tableau.com/app/profile/mahdi.naghipour/viz/Car_analysis_2015/Dashboard1 \
 This Tableau project was created and published on Tableau Public.
 Overall six visualizations were created, but the dashboard contains only four selected visualizations.
 ## Data
